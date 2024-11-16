@@ -15,7 +15,8 @@ This repository is a collection of projects I’ve worked on during my academic 
 1. **Database Systems (Fall 2023)**: 
    - A mini relational database system implemented in C++ with B-Tree indexing, query optimization, and external sorting.
    - Features include buffer management and efficient query processing.
-   - [Explore Taco-DB Project](https://github.com/Redhulk-2020/BTree)
+   - [Explore BTree Project](https://github.com/Redhulk-2020/BTree)
+   - [Explore query optimization Project](https://github.com/Redhulk-2020/BTree)
 
 2. **Machine Learning and Data Analysis (Fall 2022)**:
    - Applied algorithms like k-Means, Naive Bayes, and Logistic Regression on real-world datasets.
