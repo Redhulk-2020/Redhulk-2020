@@ -17,7 +17,7 @@ This repository is a collection of projects I’ve worked on during my academic 
    - Features include buffer management and efficient query processing.
    - [Explore Taco-DB Project](https://github.com/Redhulk-2020/BTree)
 
-2. **Machine Learning and Data Analysis**:
+2. **Machine Learning and Data Analysis (Fall 2022)**:
    - Applied algorithms like k-Means, Naive Bayes, and Logistic Regression on real-world datasets.
    - Built an interactive tool for data visualization and analysis.
 
